@@ -7,9 +7,11 @@
 **Обучение**
 
 
-![](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.pdf)
-
+![Сертификат](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.pdf)
 https://stepik.org/cert/1781624
+https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.pdf
+![Alt текст](относительный_путь_к_изображению)
+
 
 
 
