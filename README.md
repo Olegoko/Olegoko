@@ -9,8 +9,13 @@
 
 ![Сертификат](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.pdf)
 https://stepik.org/cert/1781624
-https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.pdf
-![Alt текст](относительный_путь_к_изображению)
+
+![Сертификат](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-76-fcf3719.pdf)
+https://stepik.org/cert/1894730
+
+
+
+
 
 
 
