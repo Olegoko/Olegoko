@@ -7,7 +7,7 @@
 **Обучение**
 
 
-![Сертификат Python](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.pdf)
+![Сертификат Python](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-67-d55b0c9.jpg)
 https://stepik.org/cert/1781624
 
 ![Сертификат Статистика](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-76-fcf3719.pdf)
