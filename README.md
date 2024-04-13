@@ -13,10 +13,10 @@ https://stepik.org/cert/1781624
 ![Сертификат Статистика](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-76-fcf3719.jpg)
 https://stepik.org/cert/1894730
 
-![Сертификат Статистика.Часть2](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-524-0a78f57.pdf)
+![Сертификат Статистика.Часть2](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-524-0a78f57.jpg)
 https://stepik.org/cert/2161265
 
-![Сертификат R](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-129-c8bfc9e.pdf)
+![Сертификат R](https://github.com/Olegoko/Olegoko/blob/main/stepik-certificate-129-c8bfc9e.jpg)
 https://stepik.org/cert/2029399
 
 
