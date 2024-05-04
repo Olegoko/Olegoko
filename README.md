@@ -1,9 +1,9 @@
-**О себе:**  
+## О себе:  
 Меня зовут Олег Копытин, я Data Analyst.   
 С лета 2022 года я заинтересовался Python, в частности меня заинтересовало его прикладное применение для анализа данных. 
 С этих пор занимался развитием своих soft&hard skills в этом направлении. 
 
-**Languages and tools:**
+## Languages and tools:
 
 <img src="https://github.com/Olegoko/Olegoko/blob/main/Лого.jpg" width="400" alt="Image description">
 
@@ -19,7 +19,7 @@
 Я постоянно учусь и развиваюсь. Слежу за тенденциями в сфере аналитики данных, читаю статьи и телеграмм каналы, посещаю семинары.
 
 
-**Обучение:**
+## Обучение:
 
 - KARPOV.COURSES:
   - Аналитик данных. https://lab.karpov.courses/certificate/64445ff2-a995-4aaf-a13a-b57ad5917cca/
@@ -29,7 +29,7 @@
   - Основы статистики: часть1, часть 2. https://stepik.org/cert/1894730, https://stepik.org/cert/2161265
   - Программирование на Python. https://stepik.org/cert/1781624
  
-**Контакты:**   
+## Контакты:   
 
 Telegram: @okopytin  
 Mail: okopytin@yandex.ru
