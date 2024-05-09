@@ -5,7 +5,7 @@
 
 ## Languages and tools:
 
-<img src="https://github.com/Olegoko/Olegoko/blob/main/Лого.jpg" width="400" alt="Image description">
+<img src="https://github.com/Olegoko/Olegoko/blob/main/Logo_edit.jpg" width="400" alt="Image description">
 
 Последние годы я активно занимался учебной и проектной работой, которая позволила мне развить необходимые навыки и получить ценный опыт:  
 **- Предобработка данных (Pandas, Numpy и др. библиотеки);**  
